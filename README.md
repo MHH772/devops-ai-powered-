@@ -11,4 +11,8 @@ Check it out [Here](https://trainwithshubham.ai)
 - Computer Networking
 - Git & GitHub Fundamentals
 - GitHub Advanced
-- Docker 
+- Docker Fundamentals 
+- Docker Advanced 
+- Phase 1 MCQ exam 
+- Mini Project 
+
