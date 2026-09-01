@@ -9,4 +9,5 @@ Check it out [Here](https://trainwithshubham.ai)
 - Introduction to DevOps and Cloud 
 - Linux for DevOps 
 - Computer Networking
-- Git & GitHub Fundamentals  
+- Git & GitHub Fundamentals
+- GitHub Advanced 
