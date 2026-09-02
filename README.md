@@ -4,6 +4,7 @@ current date 27-08-2026
 
 Check it out [Here](https://trainwithshubham.ai)
 
+Note :- Always do a day of assignment form #90DaysOfDevOps 
 ## Topics 
 
 - Introduction to DevOps and Cloud 
@@ -18,5 +19,9 @@ Check it out [Here](https://trainwithshubham.ai)
 - GitHub Actions
 - Jenkins
 - Kubernetes
+- AWS
+- Terraform
+- Ansible
+
 
 
