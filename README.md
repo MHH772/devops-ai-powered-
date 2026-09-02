@@ -19,5 +19,7 @@ Note :- Always do a day of assignment form #90DaysOfDevOps
 - GitHub Actions
 - Jenkins
 - Kubernetes
+- AWS
+
 
 
