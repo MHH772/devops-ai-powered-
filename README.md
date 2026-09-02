@@ -22,4 +22,7 @@ Note :- Always do a day of assignment form #90DaysOfDevOps
 - AWS
 - Terraform
 - Ansible
+- Phase 2 MCQ Exam
+- Mini Project
 - Observabilitly
+
