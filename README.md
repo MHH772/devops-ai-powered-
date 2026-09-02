@@ -17,5 +17,6 @@ Check it out [Here](https://trainwithshubham.ai)
 - Mini Project
 - GitHub Actions
 - Jenkins
+- Kubernetes
 
 
