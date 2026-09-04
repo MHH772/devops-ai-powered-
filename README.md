@@ -23,3 +23,5 @@ Note :- Always do a day of assignment form #90DaysOfDevOps
 - Terraform
 - Ansible
 - Observabilitly
+- Job Prep
+
